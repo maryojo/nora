@@ -85,8 +85,8 @@ Add notes about how to use the system.
 Add additional notes about how to deploy this on a live system. -->
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [ReactJS](https://react.dev/) - Web framework
-- [Sanity.io](https://www.sanity.io/) - Backend & database
+- [NextJS](https://nextjs.org/) - Web framework
+- [Supabase](https://supabase.com/) - Backend & database
 - [TailwindCSS](https://tailwindcss.com/) - Styling Framework
 
 
